@@ -17,3 +17,6 @@ venv/
 # Operating System Files
 .DS_Store # macOS
 Thumbs.db # Windows
+
+# CSV files
+*.csv
